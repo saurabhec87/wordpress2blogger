@@ -1,0 +1,1 @@
+Now this tool can only import wordpress posts into blogger.
